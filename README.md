@@ -22,6 +22,7 @@ Um projeto para criar uma página para contatos.
  
 ## Códigos
  
+ * CSS:
 * background-color - Propriedade CSS que define cor de fundo de um elemento.
  
 * padding - A propriedade padding define uma a distância entre o conteúdo de um elemento e suas bordas.
@@ -45,10 +46,21 @@ Um projeto para criar uma página para contatos.
 * box-shadow - O box-shadow é uma propriedade do CSS, é utilizado para adicionar efeitos de sombra em volta de um elemento. Você pode especificar mais de um efeito, os separando com virgulas.
  
 * text-aling - A propriedade CSS text-align descreve como conteúdo inline, como texto, é alinhado no elemento pai em bloco. text-align não controla o alinhamento de elementos em bloco, apenas o seu conteúdo inline.
+
+* HTML:
+* label - A propriedade label representa uma legenda para um item em uma interface de usuário. Ele pode estar associado com um elemento de controle, colocando este dentro do elemento label , ou usando o atributo for . Tal controle é chamado o controle etiquetado do elemento etiqueta.
+
+* input - input É um campo para que o usuário ou usuária possa inserir algum texto, data, número, cor, etc. possui como principais atributos type, que recebe como valor o tipo do input.
+
+* text-area - O elemento HTML textarea representa um controle de edição para uma caixa de texto, útil quando você quer permitir ao usuário informar um texto extenso em formato livre, como um comentário ou formulário de retorno.
+
+* button - O Elemento HTML button representa um botão clicável. Categorias de conteúdo Conteúdo de fluxo, conteúdo fraseado, Conteúdo iterativo, listado, rotulável, e elemento enviável associado a formulário, conteúdo palpável.
+
+* form - A tag form indica que estamos iniciando um formulário, recebe como principais atributos method que recebe como valor o método http que esse formulário irá executar (get, post) e action que especifica para onde enviar os dados do formulário quando um formulário é enviado.
  
 ## Resultado Final
  
-![Resultado final do projeto](img/resultado%20final.png)
+![Resultado final do projeto](img/resultado-final.png)
  
 ## Referências
  
@@ -60,3 +72,4 @@ Um projeto para criar uma página para contatos.
 ## Autor(a)
  
 Projeto desenvolvido pelo aluno:
+* Miguel Gonçalves Reis
